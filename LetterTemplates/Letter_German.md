@@ -16,7 +16,7 @@ Wie Ihnen sicherlich bekannt ist, ist im IT Grundschutzkatalog des Bundesministe
 
 Aus technischer Sicht gibt es keine Grund, diese Regeln künstlich einzuschränken, wenn Passwörter in der Datenbank in gehashter und gesalteter Form abgelegt sind. Auch diese Anforderung ist im BSI Katalog enthalten. Leider hält Ihr Dienst diese Anforderungen nicht vollständig ein. Daher würde ich mich freuen, wenn Sie mir die folgenden Fragen beantworten könnten, damit ich entscheiden kann, ob ich Ihren Dienst weiter nutzen möchte:
 
-* Werden Passwörter in Ihren Datenbanken unter Verwendung einer Hashfuntion und eines Saltwertes abgelegt?
+* Werden Passwörter in Ihren Datenbanken unter Verwendung einer Hashfunktion und eines Saltwertes abgelegt?
 * Welche Hashfunktion wird verwendet?
 * Welche Gründe bringt Ihre Firma vor, die es rechtfertigen, den BSI Katalog nicht einzuhalten?
 
